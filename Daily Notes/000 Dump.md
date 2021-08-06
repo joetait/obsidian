@@ -1,46 +1,3 @@
-# Daily Note - 03-08-2021
-
-## Mood/feeling
-- [x] Calm 
-- [ ]  Happy 
-- [ ]  Stressful 
-- [ ]  Resistant
-- [ ]  Frustrated
-- [x]  Productive
-
-
-## What did I achieve today
-- Set up my first journal template
-
-## Three things to be grateful for today
-- Nice beer
-- Having time to finish my book
-- Having time to go for a run
-	
-## One new thing I learnt today
-How to set up templates in Obsidian
-
-
-## A question to take forward from today
-Should I feel more grateful for things?
-
-## Habits
-
-Habit | Completed? | Reflection
------| ------------|---------
-Spanish |x| Just Duolingo 
-Gardening | |
-Exercise |x| 5km jog, felt good, easy pace, could have pushed more but went for run day before tooo. Still achieved a good time, about 30 minutes
-Meditation |x| Asking questions is good, though I think maybe I should make them less broad
-Reading |x| Finished leadership book, lots of good points about reflecting on things, though a bit wishy-washy at points
-
-## General notes and thoughts
-
-Write for 3 minutes. Good day. Completed this journal template, which I think has everything I need. Will add things to track it at some point, but now it is here I can do that incrementally. Will look at setting up server on Raspberry Pi tomorrow hopefully. Cooked dahl for dinner, was better than normal. Need to keep chipping away at garden. Not sure if I am finding weeds I  missed before or if they grow back really quickly. Could also do with getting growth stuff to help grow cuttings.
-
-Finished Resonant Leadership book. Was quite good to read, examples helped to give some concrete ideas. Very business driven, but still had broad good ideas. Mindfulness featured heavily - need to remember that this is something to *live* rather than just go through motions of doing. This will only increase little at a time anyway though, with small reminders from me to myself to be *in the present moment*.
-
-## Dump
 - [ ] [[Spaced reptition]] via nueracache and [[Obsidian]]. https://effectiveremotework.com/2020/08/spaced-repetition-with-obsidian-neuracache/ #obsidian #spacedrepetition #spacedlearning #nueracache #video #learning 
 - [ ] List of programming projects. https://dev.to/anthonygedeon/100-programming-projects-just-for-you-56b6 #programming #projects #ideasForPrograms #programmingProjects
 - [ ] Programming projects. Quite hard and thorough, good for learning more about computing in general https://itnext.io/42-projects-to-practice-programming-skills-6f5acc10fec0 #projects #programming #programmingProjects #ideasForPrograms #computing #learning 
@@ -59,3 +16,9 @@ Finished Resonant Leadership book. Was quite good to read, examples helped to gi
 - [ ]  Lookup about [[tracker plugin]]  for [[Obsidian]] https://github.com/pyrochlore/obsidian-tracker #obsidian #plugins #journal #journalling #habits
 - [ ]  Lookup about [[templater plugin]] for [[Obsidian]] https://github.com/pyrochlore/obsidian-tracker #templates #obsidian  #obsidianTemplates 
 - [ ]  Instratraders [[documentary]] about people doing financial trading on [[Instragram]] https://www.bbc.co.uk/programmes/p09pym51 #documentary #video #TV #show #socialMedia #instagram #BBC #BBCthree
+- [ ]  Look up about research into using gratitude points or achievement records in journals
+- [ ] Try making text editor website using guide here - https://enlight.nyc/projects/text-editor #programming #projects #programmingProjects #textEditor #website #keylogger
+- [ ] Work out how to do link within page on Obsidian
+- [ ]  App to let people update location anonymously for sexual assault or other issues
+- [ ] Use [[wood recycling project]] for making things #projects #building 
+- [ ]  Keep an eye on Humble Bundle for comic sets to read

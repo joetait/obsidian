@@ -17,8 +17,6 @@
 	
 ## One new thing I learnt today
 
-## A question to take forward from today
-
 ## Habits
 Habit | Completed? | Reflection
 -----| ------------|---------
