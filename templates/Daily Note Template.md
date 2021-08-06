@@ -1,6 +1,12 @@
 # Daily Note - {{date:DD-MM-YYYY}}
 
 ## Mood/feeling
+- [ ] Calm 
+- [ ]  Happy 
+- [ ]  Stressful 
+- [ ]  Resistant
+- [ ]  Frustrated
+- [ ]  Productive
 
 ## What did I achieve today
 
@@ -16,12 +22,14 @@
 ## Habits
 Habit | Completed? | Reflection
 -----| ------------|---------
-Spanish | | 
-Gardening | |
-Exercise | |
-Meditation | |
+Spanish || 
+Gardening ||
+Exercise ||
+Meditation ||
+Reading || 
 
 
 ## General notes and thoughts
 
 ## Dump
+- [ ] 
