@@ -1,0 +1,13 @@
+{
+  "pomo": 3,
+  "shortBreak": 5,
+  "longBreak": 15,
+  "longBreakInterval": 4,
+  "totalPomosCompleted": 9,
+  "notificationSound": true,
+  "logging": false,
+  "logToDaily": false,
+  "logFile": "Pomodoro Log.md",
+  "logText": "[🍅] dddd, MMMM DD YYYY, h:mm A",
+  "logActiveNote": false
+}

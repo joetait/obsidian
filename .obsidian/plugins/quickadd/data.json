@@ -1,0 +1,32 @@
+{
+  "choices": [
+    {
+      "id": "c972a9e4-eb8f-4091-8fe7-02df3dea55a5",
+      "name": "Dump",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "Daily Notes/000 Dump.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false
+    }
+  ],
+  "macros": []
+}
