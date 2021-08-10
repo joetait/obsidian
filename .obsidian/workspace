@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "54e2e46908dcae0d",
+    "id": "8b7438239823146a",
     "type": "split",
     "children": [
       {
-        "id": "72f31e794494217a",
+        "id": "9ee7b00b1fd5024f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-08-09.md",
+            "file": "Daily Notes/2021-08-10.md",
             "mode": "source"
           }
         }
@@ -18,50 +18,57 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1f6a11139f9d61a",
-    "type": "mobile-drawer",
+    "id": "8f4c394f8bb3b3bd",
+    "type": "split",
     "children": [
       {
-        "id": "48c708514d0a8782",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "1d330b4e522e32fb",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "7e211a6993b2072a",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "a95c7a99a38c42bf",
+        "id": "1ba6e4bfc11bd9db",
         "type": "tabs",
         "children": [
           {
-            "id": "918f423b66cc47e8",
+            "id": "43f85b6ec0308d7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "736b0035086ecd08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbd6b2f78c8cd7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ace1dae8d4e360a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3778ffe4ee575392",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-08-09.md",
+                "file": "Daily Notes/2021-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,22 +79,16 @@
               }
             }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "72f31e794494217a",
+  "active": "9ee7b00b1fd5024f",
   "lastOpenFiles": [
-    "Daily Notes/2021-08-09.md",
-    "Daily Notes/2021-08-08.md",
-    "README.md",
-    "templates/Daily Note Template.md",
-    "Daily Notes/2021-08-07.md",
-    "Daily Notes/2021-08-06.md",
-    "Daily Notes/2021-08-05.md",
-    "Daily Notes/000 Dump.md",
-    "raspberry Pi.md",
-    "LAMP server.md"
+    "Daily Notes/2021-08-10.md",
+    "Daily Notes/2021-08-09.md"
   ]
 }
