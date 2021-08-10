@@ -1,1 +1,6 @@
-{}
+{
+  "foldIndent": true,
+  "foldHeading": true,
+  "vimMode": true,
+  "showLineNumber": true
+}
